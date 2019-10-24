@@ -1,0 +1,7 @@
+name:Raja
+age:30
+addrs:hyd
+qlfy:  double engg 
+identity :: senior student of college
+                   senor citizen of ameerpet
+ Academics ::    10th :  39.89  , 10+2 : 67.56 , B.E:  35.66
